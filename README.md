@@ -1,4 +1,4 @@
-# EXP 1 :  ANALYSIS OF DFT WITH AUDIO SIGNAL
+[[# EXP 1 :  ANALYSIS OF DFT WITH AUDIO SIGNAL
 
 # AIM: 
 
@@ -76,3 +76,4 @@ plt.show()
 
 # RESULTS
 Hence ANALYSIS OF DFT WITH AUDIO SIGNAL is done successfully.
+](https://github.com/ktharun2112-droid/DISCRETE-FOURIER-TRANSFORM-)](https://github.com/ktharun2112-droid/DISCRETE-FOURIER-TRANSFORM-)
